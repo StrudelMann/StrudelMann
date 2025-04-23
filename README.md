@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Just a he/him guy from Czechia trying to make sense of code.🤓
+
+Currently taking a class in C.
+Trying out HTML and CSS on the side.
+
+Probably playing games instead of learning.
 <!--
 **StrudelMann/StrudelMann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
